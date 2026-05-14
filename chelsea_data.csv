@@ -1,0 +1,73 @@
+date,opponent,gf,ga,result,venue,fouls,formation,opp_formation,referee,penalty_for,penalty_against,yellow_cards,red_cards,season
+2024-08-18,Manchester City,0,2,L,Home,12,4-2-3-1,3-2-4-1,Anthony Taylor,0,0,1,0,2024-25
+2024-08-25,Wolves,6,2,W,Away,13,4-2-3-1,4-2-3-1,Darren England,0,0,3,0,2024-25
+2024-09-01,Crystal Palace,1,1,D,Home,9,4-2-3-1,3-4-3,Jarred Gillett,0,0,4,0,2024-25
+2024-09-14,Bournemouth,1,0,W,Away,9,4-2-3-1,4-2-3-1,Anthony Taylor,0,0,8,0,2024-25
+2024-09-21,West Ham United,3,0,W,Away,10,4-2-3-1,3-4-3,Samuel Barrott,0,0,2,0,2024-25
+2024-09-28,Brighton,4,2,W,Home,11,4-2-3-1,4-3-3,Peter Bankes,1,0,3,0,2024-25
+2024-10-06,Nottingham Forest,1,1,D,Home,12,4-2-3-1,4-2-3-1,Chris Kavanagh,0,0,6,0,2024-25
+2024-10-20,Liverpool,1,2,L,Away,13,4-2-3-1,4-2-3-1,John Brooks,0,1,3,0,2024-25
+2024-10-27,Newcastle United,2,1,W,Home,13,4-2-3-1,4-3-3,Simon Hooper,0,0,6,0,2024-25
+2024-11-03,Manchester Utd,1,1,D,Away,14,4-2-3-1,4-2-3-1,Robert Jones,0,1,2,0,2024-25
+2024-11-10,Arsenal,1,1,D,Home,12,4-2-3-1,4-3-3,Michael Oliver,0,0,4,0,2024-25
+2024-11-23,Leicester City,2,1,W,Away,12,4-2-3-1,4-5-1,Andy Madley,1,0,3,0,2024-25
+2024-12-01,Aston Villa,3,0,W,Home,21,4-2-3-1,4-2-3-1,Stuart Attwell,0,0,2,0,2024-25
+2024-12-04,Southampton,5,1,W,Away,14,4-2-3-1,5-3-2,Tony Harrington,0,0,,0,2024-25
+2024-12-08,Tottenham Hotspur,4,3,W,Away,11,4-2-3-1,4-3-3,Anthony Taylor,2,0,3,0,2024-25
+2024-12-15,Brentford,2,1,W,Home,11,4-2-3-1,3-5-2,Peter Bankes,0,0,3,1,2024-25
+2024-12-22,Everton,0,0,D,Away,12,4-2-3-1,4-3-3,Chris Kavanagh,0,0,1,0,2024-25
+2024-12-26,Fulham,1,2,L,Home,13,4-2-3-1,4-5-1,Samuel Barrott,0,0,1,0,2024-25
+2024-12-30,Ipswich Town,0,2,L,Away,5,4-2-3-1,4-2-3-1,John Brooks,0,1,4,0,2024-25
+2025-01-04,Crystal Palace,1,1,D,Away,12,4-2-3-1,3-4-3,Tim Robinson,0,0,2,0,2024-25
+2025-01-14,Bournemouth,2,2,D,Home,15,4-2-3-1,4-2-3-1,Robert Jones,0,1,2,0,2024-25
+2025-01-20,Wolves,3,1,W,Away,8,4-2-3-1,3-4-3,Simon Hooper,0,0,4,0,2024-25
+2025-01-25,Manchester City,1,3,L,Away,8,4-2-3-1,4-3-3,John Brooks,0,0,2,0,2024-25
+2025-02-03,West Ham United,2,1,W,Home,11,4-2-3-1,3-4-3,Stuart Attwell,0,0,3,0,2024-25
+2025-02-14,Brighton,0,3,L,Away,15,4-2-3-1,5-4-1,Chris Kavanagh,0,0,2,0,2024-25
+2025-02-22,Aston Villa,1,2,L,Away,16,4-2-3-1,4-2-3-1,Michael Oliver,0,0,3,0,2024-25
+2025-02-25,Southampton,2,0,W,Home,6,4-2-3-1,5-4-1,Thomas Bramall,0,0,1,0,2024-25
+2025-03-09,Leicester City,1,0,W,Home,12,4-2-3-1,3-4-3,Tim Robinson,1,0,1,0,2024-25
+2025-03-16,Arsenal,0,1,L,Away,13,4-2-3-1,4-3-3,Chris Kavanagh,0,0,1,0,2024-25
+2025-04-03,Tottenham Hotspur,1,0,W,Home,7,4-2-3-1,4-3-3,Craig Pawson,0,0,5,0,2024-25
+2025-04-06,Brentford,0,0,D,Away,12,4-2-3-1,4-2-3-1,Michael Oliver,0,0,3,0,2024-25
+2025-04-13,Ipswich Town,2,2,D,Home,11,4-2-3-1,4-2-3-1,Stuart Attwell,0,0,2,0,2024-25
+2025-04-20,Fulham,2,1,W,Away,9,4-2-3-1,4-2-3-1,Anthony Taylor,0,0,3,0,2024-25
+2025-04-26,Everton,1,0,W,Home,11,3-4-3,4-2-3-1,Chris Kavanagh,0,0,,0,2024-25
+2025-05-04,Liverpool,3,1,W,Home,10,4-2-3-1,4-2-3-1,Simon Hooper,1,0,2,0,2024-25
+2025-05-11,Newcastle United,0,2,L,Away,13,4-2-3-1,3-4-3,John Brooks,0,0,2,1,2024-25
+2025-05-16,Manchester Utd,1,0,W,Home,10,4-2-3-1,3-4-3,Chris Kavanagh,0,0,1,0,2024-25
+2025-05-25,Nottingham Forest,1,0,W,Away,11,4-2-3-1,4-3-1-2,Anthony Taylor,0,0,2,0,2024-25
+2025-08-17,Crystal Palace,0,0,D,Home,10,4-2-3-1,3-4-3,Darren England,0,0,2,0,2025-26
+2025-08-22,West Ham United,5,1,W,Away,10,4-2-3-1,3-4-1-2,Michael Oliver,0,0,1,0,2025-26
+2025-08-30,Fulham,2,0,W,Home,11,4-2-3-1,4-2-3-1,Robert Jones,1,0,2,0,2025-26
+2025-09-13,Brentford,2,2,D,Away,9,4-2-3-1,5-3-2,Stuart Attwell,0,0,2,0,2025-26
+2025-09-20,Manchester Utd,1,2,L,Away,14,4-2-3-1,3-4-3,Peter Bankes,0,0,5,1,2025-26
+2025-09-27,Brighton,1,3,L,Home,9,4-3-3,4-2-3-1,Simon Hooper,0,0,3,1,2025-26
+2025-10-04,Liverpool,2,1,W,Home,9,4-2-3-1,4-2-3-1,Anthony Taylor,0,0,0,0,2025-26
+2025-10-18,Nottingham Forest,3,0,W,Away,16,4-2-3-1,5-3-2,Chris Kavanagh,0,0,5,1,2025-26
+2025-10-25,Sunderland,1,2,L,Home,15,4-2-3-1,5-4-1,Andy Madley,0,0,1,0,2025-26
+2025-11-01,Tottenham Hotspur,1,0,W,Away,12,4-2-3-1,4-2-3-1,Jarred Gillett,0,0,2,0,2025-26
+2025-11-08,Wolves,3,0,W,Home,12,4-2-3-1,5-3-2,Andrew Kitchen,0,0,1,0,2025-26
+2025-11-22,Burnley,2,0,W,Away,8,4-2-3-1,4-3-3,Peter Bankes,0,0,3,0,2025-26
+2025-11-30,Arsenal,1,1,D,Home,12,4-2-3-1,4-3-3,Anthony Taylor,0,0,1,1,2025-26
+2025-12-03,Leeds United,1,3,L,Away,13,4-2-3-1,3-5-2,Darren England,0,0,1,0,2025-26
+2025-12-06,Bournemouth,0,0,D,Away,13,4-2-3-1,4-2-3-1,Michael Oliver,0,0,2,0,2025-26
+2025-12-13,Everton,2,0,W,Home,13,4-2-3-1,4-2-3-1,Thomas Bramall,0,0,1,0,2025-26
+2025-12-20,Newcastle United,2,2,D,Away,14,4-2-3-1,4-3-3,Andy Madley,0,0,6,0,2025-26
+2025-12-27,Aston Villa,1,2,L,Home,16,4-2-3-1,4-4-2,Stuart Attwell,0,0,5,0,2025-26
+2025-12-30,Bournemouth,2,2,D,Home,5,4-2-3-1,4-2-3-1,Samuel Barrott,1,0,1,0,2025-26
+2026-01-04,Manchester City,1,1,D,Away,14,4-2-3-1,4-1-4-1,Michael Oliver,0,0,3,0,2025-26
+2026-01-07,Fulham,1,2,L,Away,6,4-2-3-1,3-4-3,Peter Bankes,0,0,3,1,2025-26
+2026-01-17,Brentford,2,0,W,Home,7,4-2-3-1,4-2-3-1,John Brooks,1,0,3,0,2025-26
+2026-01-25,Crystal Palace,3,1,W,Away,10,4-2-3-1,3-4-3,Darren England,1,0,2,0,2025-26
+2026-01-31,West Ham United,3,2,W,Home,11,4-1-4-1,4-1-1,Anthony Taylor,0,0,3,0,2025-26
+2026-02-07,Wolves,3,1,W,Away,10,4-2-3-1,4-2-3-1,Jarred Gillett,2,0,1,0,2025-26
+2026-02-10,Leeds United,2,2,D,Home,9,4-2-3-1,5-4-1,Robert Jones,1,1,4,0,2025-26
+2026-02-21,Burnley,1,1,D,Home,13,4-2-3-1,3-4-3,Lewis Smith,0,0,5,1,2025-26
+2026-03-01,Arsenal,1,2,L,Away,14,4-3-3,4-2-3-1,Darren England,0,0,6,1,2025-26
+2026-03-04,Aston Villa,4,1,W,Away,9,4-3-3,4-2-3-1,Jarred Gillett,0,0,2,0,2025-26
+2026-03-14,Newcastle United,0,1,L,Home,9,4-2-3-1,4-2-3-1,Paul Tierney,0,0,2,0,2025-26
+2026-03-21,Everton,0,3,L,Away,7,4-2-3-1,4-2-3-1,Samuel Barrott,0,0,2,0,2025-26
+2026-04-12,Manchester City,0,3,L,Home,10,4-2-3-1,4-2-3-1,Chris Kavanagh,0,0,3,0,2025-26
+2026-04-18,Manchester Utd,0,1,L,Home,12,4-2-3-1,4-2-3-1,Michael Oliver,0,0,1,0,2025-26
+2026-04-21,Brighton,0,3,L,Away,5,4-4-1-1,4-2-3-1,Craig Pawson,0,0,1,0,2025-26
