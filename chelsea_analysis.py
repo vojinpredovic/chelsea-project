@@ -70,9 +70,6 @@ class ChelseaAnalysis:
         proportions = counts.div(counts.sum(axis=1), axis=0)
         proportions.plot(kind="bar", stacked=True, legend=True)
 
-        counts = df.groupby(["foul_bin", "result"]).size().unstack(
-            fill_value=0)
-
         plt.xlabel('Foul Count Range')
         plt.ylabel('Proportion of Games')
         plt.title('Chelsea Results by Foul Count For The '
