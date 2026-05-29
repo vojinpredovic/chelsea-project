@@ -1,4 +1,5 @@
 # Chelsea Data Analysis
+
 **By Vojin Predovic and Ryu Hoshino**
 
 This project explores Chelsea FC's Premier League match data from the
@@ -30,6 +31,7 @@ what each visualization should look like.
   formations, referee, penalties, cards, and season.
 - `chelsea_data_small.csv` — A small subset of the data used only for
   conveniently testing the code.
+  
 **Code**
  
 * `chelsea_analysis.py` — Defines the `ChelseaAnalysis` class, which loads
