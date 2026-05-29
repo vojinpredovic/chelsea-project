@@ -11,7 +11,7 @@ and statistical significance tests.
 ## Required Installations
 * `pandas`
 * `scipy`
-* `matplotlib.pyplot`
+* `matplotlib`
 * `seaborn`
 
 You can install them with
