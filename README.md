@@ -47,3 +47,25 @@ what each visualization should look like.
   visualizations on `chelsea_data_small.csv` to conveniently verify they
   work. Not required to reproduce the main results.
 
+## Instructions For Running
+
+1. **Install the libraries**
+
+   Install the 4 required libraries with the above pip command if not already
+   installed.
+
+3. **Place all files in one folder**
+
+   Place the three `.py` files and the two `.csv` file in one folder.
+
+5. **Update File Paths**
+
+   Each `.py` file has a path constant near the top, replace this with the file
+   path of each `.csv` file on your machine. If each `.csv` is in the same folder
+   as the `.py` files, you can set these to just the file name.
+
+   * In `DATA_PATH`, set it to the path of `chelsea_data.csv`
+   * In `TEST_PATH`, set it to the path of `chelsea_data_small.csv`
+
+6. **Run `chelsea_analysis.py` to generate the visualizations**
+   
