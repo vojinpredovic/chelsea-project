@@ -2,8 +2,8 @@
 Vojin Predovic and Ryu Hoshino
 CSE 163
 This file introduces data visualization and exploration for
-Chelsea data from the Premier League, seasons 24-25 and parts of
-25-26 (unfinished, two matches left as of writing)
+Chelsea data from the Premier League, seasons 24-25 and
+25-26
 '''
 import pandas as pd
 import seaborn as sns
@@ -26,7 +26,7 @@ class ChelseaAnalysis:
         '''
         Visualizes a horizontal bar graph for referee win %
         based on each referee, and includes a 50% mark for
-        comparison. Also removes referees with low game
+        comparison. Removes referees with low game
         count under 2 to avoid skewed numbers.
         '''
 
@@ -55,9 +55,7 @@ class ChelseaAnalysis:
         '''
         Visualizes a stacked and standardized bar graph
         that shows the proportion of match results based on
-        a range of foul counts. Fouls can vary widely, so we
-        started at the min and did small increments until the
-        largest count.
+        a range of foul counts.
         '''
 
         df = self._df.copy()
@@ -78,11 +76,33 @@ class ChelseaAnalysis:
         plt.xticks(rotation=0)
         plt.savefig(save, bbox_inches='tight')
 
+    def venue_result(self, save: str = 'venue_result.png') -> None:
+        '''
+        Visualizes win rate showing the proportion of wins
+        for each venue, either home or away.
+        '''
+
+        df = self._df.copy()
+        df['outcome'] = df['result'].apply(lambda x:
+                                           'Win' if x == 'W' else 'Non-win')
+
+        counts = df.groupby(['venue', 'outcome']).size().unstack(fill_value=0)
+        proportions = counts.div(counts.sum(axis=1), axis=0)
+        proportions.plot(kind='bar', stacked=True, legend=True)
+
+        plt.xlabel('Venue')
+        plt.ylabel('Win proportion')
+        plt.title('Chelsea Results by Venue For The 24/25 and '
+                  '25/26 Premier League Seasons')
+        plt.tight_layout()
+        plt.savefig(save, bbox_inches='tight')
+
 
 def main():
     analysis = ChelseaAnalysis(DATA_PATH)
     analysis.referee_winrate()
     analysis.foul_result()
+    analysis.venue_result()
 
 
 if __name__ == '__main__':
