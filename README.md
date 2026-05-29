@@ -8,12 +8,14 @@ of fouls Chelsea commit. The project produces both data visualizations
 and statistical significance tests.
 
 # Required Installations
-* pandas
-* scipy
-* matplotlib.pyplot
-* seaborn
+* `pandas`
+* `scipy`
+* `matplotlib.pyplot`
+* `seaborn`
 
 You can install them with
 ```
 pip install pandas scipy seaborn matplotlib
 ```
+No other environment, tools, or external downloads are required — the
+data files are included with the submission.
