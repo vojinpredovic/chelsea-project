@@ -18,9 +18,6 @@ You can install them with
 ```
 pip install pandas scipy seaborn matplotlib
 ```
-No other environment, tools, or external downloads are required, and 
-the csv data files are included in the files, along with images of
-what each visualization should look like.
 
 ## Files
 
@@ -68,4 +65,30 @@ what each visualization should look like.
    * In `TEST_PATH`, set it to the path of `chelsea_data_small.csv`
 
 6. **Run `chelsea_analysis.py` to generate the visualizations**
+
+   You can either run it using the run button in the top right or
+   paste this in the terminal
+   ```
+   python chelsea_analysis.py
+   ```
+   This will save the 3 `.png` files into the folder you ran it from.
+
+7. **Run `chelsea_results.py` to summarize the statistical findings**
+   You can either run it using the run button in the top right or
+   paste this in the terminal
+   ```
+   python chelsea_results.py
+   ```
+   This will print the test-statistics, p-values, and results in
+   the terminal.
+
+8. **(Optional) Run `chelsea_test.py` to generate test visualizations**
+   You can either run it using the run button in the top right or
+   paste this in the terminal
+   ```
+   python chelsea_test.py
+   ```
+   This will save the 3 `.png` files in the folder you ran it from,
+   use this to check the visualizations of the `chelsea_data_small.csv`
+   file.
    
