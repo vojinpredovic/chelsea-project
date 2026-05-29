@@ -1,5 +1,4 @@
 # Chelsea Data Analysis
-
 **By Vojin Predovic and Ryu Hoshino**
 
 This project explores Chelsea FC's Premier League match data from the
