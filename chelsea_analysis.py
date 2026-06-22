@@ -1,5 +1,5 @@
 '''
-Vojin Predovic and Ryu Hoshino
+Vojin Predovic
 CSE 163
 This file introduces data visualization and exploration for
 Chelsea data from the Premier League, seasons 24-25 and
