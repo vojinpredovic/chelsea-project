@@ -1,5 +1,5 @@
 '''
-Vojin Predovic and Ryu Hoshino
+Vojin Predovic
 CSE 163
 This files tests the functionality of the visualizations
 and the results class helper methods.
