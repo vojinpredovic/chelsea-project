@@ -1,5 +1,5 @@
 '''
-Vojin Predovic and Ryu Hoshino
+Vojin Predovic
 CSE 163
 This file uses the SciPy library to conduct
 a significance test on the Chelsea data.
